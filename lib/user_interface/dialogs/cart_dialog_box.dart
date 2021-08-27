@@ -254,6 +254,7 @@ class _CartDialogBoxState extends State<CartDialogBox> {
                                 ],
                               ),
                             ),
+
                           ),
                         ),
                       ),
